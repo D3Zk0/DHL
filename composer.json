@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers":  [
-                "d3x\\DHL\\DHLServiceProvider"
+                "d3x\\DHL\\src\\DHLServiceProvider"
             ]
         }
     }
