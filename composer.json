@@ -1,11 +1,11 @@
 {
-    "name": "dex/dhl",
+    "name": "d3x/dhl",
     "description": "DHL quote and shipment API helpers",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "dex",
+            "name": "Andraž Dežman",
             "email": "adezman123@gmail.com"
         }
     ],
