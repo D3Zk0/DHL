@@ -13,13 +13,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "d3x\\DHL\\": "src/"
+            "d3x\\dhl\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers":  [
-                "d3x\\DHL\\DHLServiceProvider"
+                "d3x\\dhl\\DHLServiceProvider"
             ]
         }
     }
