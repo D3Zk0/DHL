@@ -15,5 +15,12 @@
         "psr-4": {
             "d3x\\DHL\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers":  [
+                "d3x\\DHL\\DHLServiceProvider"
+            ]
+        }
     }
 }
