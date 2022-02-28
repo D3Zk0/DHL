@@ -1,0 +1,19 @@
+{
+    "name": "dex/dhl",
+    "description": "DHL quote and shipment API helpers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dex",
+            "email": "adezman123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dex\\DHL": "src/"
+        }
+    }
+}
